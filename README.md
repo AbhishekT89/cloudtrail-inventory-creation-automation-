@@ -1,1 +1,1 @@
-# cloudtrail-inventory-creation-automation-
+# cloudtrail-inventory-creation-automation
